@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a portfolio site for Samuel Graves built with SSG jekyll, hosted on Github Pages for convenience.
 twitter_username: username
 github_username: SGravesOpen
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
