@@ -1,6 +1,6 @@
 ---
 title: Plantation Escape
-date: 2025--3-12
+date: 2025-03-12
 categories:
   - blog
 tags:
